@@ -1,8 +1,23 @@
-@import url(http://fonts.googleapis.com/css?family=Noto+Sans);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
 
 body {
-	font-family: 'Noto Sans', sans-serif;
-	font-size: 15px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 19px;
+}
+.services {
+	background-color: #58488a;
+	padding: 50px 0;
+}
+/* .webg-item-services {
+	margin-bottom: 15px;
+} */
+.webg-title-services {
+	color: #eee;
+	text-transform: uppercase;
+	font-size: 17px;
+}
+.webg-text-services {
+	color: #c7c0de;
 }
 
 
