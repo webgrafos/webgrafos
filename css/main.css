@@ -2,15 +2,12 @@
 
 body {
 	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 19px;
+	font-size: 18px;
 }
-.services {
+.webg-services {
 	background-color: #58488a;
 	padding: 50px 0;
 }
-/* .webg-item-services {
-	margin-bottom: 15px;
-} */
 .webg-title-services {
 	color: #eee;
 	text-transform: uppercase;
@@ -18,6 +15,23 @@ body {
 }
 .webg-text-services {
 	color: #c7c0de;
+}
+.webg-contact {
+	background: url("../img/contact.png");
+	padding: 50px 0;
+}
+.webg-title-contact {
+	color: #000;
+	text-transform: uppercase;
+	font-size: 17px;
+}
+.webg-text-contact {
+	color: #000;
+}
+.btn-success {
+	border-color: #47a447;
+	border-radius: 0;
+	font-size: 16px;
 }
 
 
