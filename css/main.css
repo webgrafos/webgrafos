@@ -2,11 +2,12 @@
 
 body {
 	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 }
 .webg-services {
-	background-color: #58488a;
+	background: #58488a;
 	padding: 50px 0;
+	border: url("../img/fullcolor.png");
 }
 .webg-title-services {
 	color: #eee;
@@ -26,14 +27,17 @@ body {
 	font-size: 17px;
 }
 .webg-text-contact {
-	color: #000;
+	color: #999;
 }
 .btn-success {
 	border-color: #47a447;
 	border-radius: 0;
 	font-size: 16px;
 }
-
+.color {
+	width: 100%;
+	display: block;
+}
 
 
 
